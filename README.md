@@ -24,7 +24,7 @@
 ```bash
 # Arch-based
 sudo pacman -S wireguard-tools
-Simple and effective WireGuard control from your system tray.
+
 # Debian/Ubuntu
 sudo apt install wireguard 
 ```
