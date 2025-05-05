@@ -23,10 +23,10 @@
 
 ```bash
 # Arch-based
-sudo pacman -S wireguard-tools libappindicator-gtk3 python-gobject
-
+sudo pacman -S wireguard-tools
+Simple and effective WireGuard control from your system tray.
 # Debian/Ubuntu
-sudo apt install wireguard libappindicator3-dev python3-gi gir1.2-appindicator3-0.1
+sudo apt install wireguard 
 ```
 
 ---
