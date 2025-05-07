@@ -34,8 +34,8 @@ sudo apt install wireguard
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/your-username/wireguard-tray-gui.git
-cd wireguard-tray-gui
+git clone https://github.com/artemventvent/wireguardGuiV2.git
+cd wireguardGuiV2
 chmod +x tray.py
 ./tray.py
 ```
